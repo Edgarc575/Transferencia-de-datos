@@ -32,8 +32,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.txtrespuesta = new System.Windows.Forms.TextBox();
             this.btnregresar = new System.Windows.Forms.Button();
+            this.txtrespuesta = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -78,15 +78,6 @@
             this.panel2.Size = new System.Drawing.Size(748, 223);
             this.panel2.TabIndex = 4;
             // 
-            // txtrespuesta
-            // 
-            this.txtrespuesta.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtrespuesta.Location = new System.Drawing.Point(19, 14);
-            this.txtrespuesta.Multiline = true;
-            this.txtrespuesta.Name = "txtrespuesta";
-            this.txtrespuesta.Size = new System.Drawing.Size(711, 157);
-            this.txtrespuesta.TabIndex = 0;
-            // 
             // btnregresar
             // 
             this.btnregresar.Location = new System.Drawing.Point(310, 177);
@@ -95,6 +86,17 @@
             this.btnregresar.TabIndex = 23;
             this.btnregresar.Text = "Regresar";
             this.btnregresar.UseVisualStyleBackColor = true;
+            this.btnregresar.Click += new System.EventHandler(this.btnregresar_Click);
+            // 
+            // txtrespuesta
+            // 
+            this.txtrespuesta.Enabled = false;
+            this.txtrespuesta.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtrespuesta.Location = new System.Drawing.Point(19, 14);
+            this.txtrespuesta.Multiline = true;
+            this.txtrespuesta.Name = "txtrespuesta";
+            this.txtrespuesta.Size = new System.Drawing.Size(711, 157);
+            this.txtrespuesta.TabIndex = 0;
             // 
             // Form2
             // 
@@ -106,6 +108,7 @@
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.Form2_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
