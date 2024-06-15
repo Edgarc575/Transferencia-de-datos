@@ -1,0 +1,11 @@
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\bin\Debug\Transferencia_de_datos.exe.config
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\bin\Debug\Transferencia_de_datos.exe
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\bin\Debug\Transferencia_de_datos.pdb
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.csproj.AssemblyReference.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.Form1.resources
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.Form2.resources
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.Properties.Resources.resources
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.csproj.GenerateResource.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.exe
+C:\Users\Edgardo Caceres\Documents\GitHub\Transferencia-de-datos\Transferencia_de_datos\Transferencia_de_datos\obj\Debug\Transferencia_de_datos.pdb
